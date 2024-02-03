@@ -1,5 +1,7 @@
 Ví dụ Django trên Vercel
 
+https://www.youtube.com/watch?v=O6IkGAdPqmU
+
 Repository này, vercel-django-example, là một ví dụ về cách triển khai một dự án Django trên nền tảng Vercel.
 
 Cấu trúc của dự án bao gồm các thành phần chính sau:
@@ -32,4 +34,5 @@ Tệp vercel.json chứa các cài đặt cấu hình cụ thể cho việc tri�
 Hướng Dẫn Sử Dụng
 Để triển khai dự án Django này trên Vercel, hãy làm theo các bước được mô tả trong video youtube. Đảm bảo rằng các phụ thuộc cần thiết đã được cài đặt như mô tả trong requirements.txt.
 Hãy thoải mái khám phá và sửa đổi ví dụ này cho các dự án Django của bạn trên nền tảng Vercel. Nếu bạn gặp bất kỳ vấn đề nào hoặc có câu hỏi, tham khảo tài liệu Vercel để được hỗ trợ.
+![image](https://github.com/huyinit/vercel-django-example/assets/82762841/30f1573e-a7da-447d-aa81-1ecacff3c05b)
 
