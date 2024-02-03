@@ -1,5 +1,5 @@
-**Ví dụ Django trên Vercel
-**
+**Ví dụ Django trên Vercel**
+
 https://www.youtube.com/watch?v=O6IkGAdPqmU
 
 Repository này, vercel-django-example, là một ví dụ về cách triển khai một dự án Django trên nền tảng Vercel.
